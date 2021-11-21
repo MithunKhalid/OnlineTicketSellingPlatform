@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="OnlineTicketSellingPlatform.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/OnlineTicketSellingPlatform_war</output-path>
+    <root id="root" />
+  </artifact>
+</component>
